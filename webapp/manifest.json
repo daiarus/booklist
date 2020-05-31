@@ -11,7 +11,7 @@
       },
       "dataSources": {
         "booksService": {
-          "uri": "/sap/opu/odata/SAP/Z801_LIBRARY_SJ_SRV/",
+          "uri": "/sap/opu/odata/SAP/Z801_BOOKLIST_DARU_SRV/",
           "type": "OData",
           "settings": {
             "odataVersion": "2.0"
