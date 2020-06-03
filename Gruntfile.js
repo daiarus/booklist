@@ -139,10 +139,10 @@ module.exports = function(grunt) {
 					},
 					ui5: {
 						language: 'EN',
-						transportno: 'I42K902395',
-						package: 'Z801_DEV_PACK_SJOO',
-						bspcontainer: 'Z801_BOOKS_SJOO',
-						bspcontainer_text: 'Books UI5 app Szila'
+						transportno: 'I42K902207',
+						package: 'Z801_LIBRARY_DARU',
+						bspcontainer: 'Z801_BOOKS_DARU',
+						bspcontainer_text: 'Books UI5 app DAIA'
 					},
 					resources: {
 						cwd: 'dist',
